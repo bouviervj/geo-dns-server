@@ -1,0 +1,12 @@
+{
+  "records" : [
+    {
+      "name" : "initial server",
+      "address" : "re-server.ue.r.appspot.com", 
+      "geocoordinates" : {
+        "lat" : 42.5246043,
+        "lon" : -71.4276294
+      }
+    }
+  ]
+}
