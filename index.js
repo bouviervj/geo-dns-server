@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-
+var cors = require('cors');
 const fs = require('fs');
 
 var geo_data = null;
@@ -66,6 +66,8 @@ function resolveServer(host){
   return records;
 
 }
+
+app.use(cors())
 
 app.get('/', (req, res) => {
 

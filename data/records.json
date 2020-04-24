@@ -2,7 +2,7 @@
   "records" : [
     {
       "name" : "initial server",
-      "address" : "re-server.ue.r.appspot.com", 
+      "address" : "35.245.223.76", 
       "geocoordinates" : {
         "lat" : 42.5246043,
         "lon" : -71.4276294
